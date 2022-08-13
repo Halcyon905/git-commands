@@ -17,7 +17,7 @@
 
 > TODO: Create a table of contents here.  Each line should be a clickable link to each part of this document or another file containing the questions and answers. One item per line.
 
-[Basics](#basics)    
+**[Basics](#basics)**<br>
 [Adding and Changing Things](#adding-and-changing-things)    
 [Next Section (todo: Fix This)](#next-section)    
 [Next Section (todo: Fix This)](#next-next-section)    
@@ -33,24 +33,27 @@ In this file, directory paths are written with a forward slash as on MacOS, Linu
 ## Basics
 
 1. When using Git locally, what are these?  Define each one in a sentence
-   * Staging area -
-   * Working copy -
-   * master -
-   * HEAD -
+   * Staging area - It is a snapshot of files that are to be committed.
+   * Working copy - It is a complete copy of the project files that you work on.
+   * master - It is a name that refers to the default branch.
+   * HEAD - It refers to the latest commit you are currently checking out.
 
 2. When you install git on a new machine (or in a new user account) you should perform these 2 git commands to tell git your name and email.  These values are used in commits that you make:
    ```
-   # Git configuration commands for a new account
-
-
+   git config global user.name "Enter your FULL name"
+   git config global user.email "Enter your email"
    ```
 
 3. There are 2 ways to create a local Git repository.  What are they?
-   - todo: briefly describe first way
-   - todo: briefly describe second way
+   ```
+   - Use git init in the directory that you want to make a repository
+   - Clone it from a remote repository using git clone
+   ```
 
 4. When you create a git repository by entering `git init`, Git will create a "hidden" directory for the local repository.  Where is the directory for this local repository (relative to the directory where you typed "git init")?
-
+   ```
+   It will be in the same directory that you typed git init.
+   ```
 
 
 ## Adding and Changing Things
@@ -71,7 +74,7 @@ test/
 
 1. Add README.md and *everything* in the `src` directory to the git staging area.
    ```
-   todo  your answer here
+   git add *
    ```
 
 2. Add `test/test_a.py` to the staging area (but not any other files).
