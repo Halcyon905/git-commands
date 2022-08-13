@@ -16,13 +16,13 @@
 ## Using Git
 
 
-[Basics](#basics)<br>
-[Adding and Changing Things](#adding-and-changing-things)<br>
-[Next Section (todo: Fix This)](#next-section)<br>
-[Next Section (todo: Fix This)](#next-next-section)<br>
-[Commands for Remotes](remote-commands.md)<br> 
-[Favorites](#favorites)<br>
-[Resources](#resources)<br>
+**[Basics](#basics)**<br>
+**[Adding and Changing Things](#adding-and-changing-things)**<br>
+**[Next Section (todo: Fix This)](#next-section)**<br>
+**[Next Section (todo: Fix This)](#next-next-section)**<br>
+**[Commands for Remotes](remote-commands.md)**<br> 
+**[Favorites](#favorites)**<br>
+**[Resources](#resources)**<br>
 
 #### Note on Paths
 
