@@ -15,15 +15,14 @@
 
 ## Using Git
 
-> TODO: Create a table of contents here.  Each line should be a clickable link to each part of this document or another file containing the questions and answers. One item per line.
 
-**[Basics](#basics)**<br>
-[Adding and Changing Things](#adding-and-changing-things)    
-[Next Section (todo: Fix This)](#next-section)    
-[Next Section (todo: Fix This)](#next-next-section)    
-[Commands for Remotes](remote-commands.md)   
-[Favorites](#favorites)     
-[Resources](#resources)
+[Basics](#basics)<br>
+[Adding and Changing Things](#adding-and-changing-things)<br>
+[Next Section (todo: Fix This)](#next-section)<br>
+[Next Section (todo: Fix This)](#next-next-section)<br>
+[Commands for Remotes](remote-commands.md)<br> 
+[Favorites](#favorites)<br>
+[Resources](#resources)<br>
 
 #### Note on Paths
 
