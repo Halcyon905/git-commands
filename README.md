@@ -120,7 +120,7 @@ test/
    ```
 
 10. **Delete** the file `c.py` from your working copy **and** the repository:
-   ```
+```
    git rm c.py
    ```
 
@@ -235,10 +235,10 @@ test/
 
 ## Favorites
    ```
-   1. For removing files from staged area
+12. For removing files from staged area
    git restore --staged <filename>
    
-   2. Difference between STAGED and previous commit
+13. Difference between STAGED and previous commit
    git diff --staged <filename>
    ```
 
