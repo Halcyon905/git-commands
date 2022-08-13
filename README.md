@@ -21,7 +21,7 @@
 - [Adding and Changing Things](#adding-and-changing-things)<br>
 - [Undo Changes and Recover Files](#Undo-Changes-and-recover-files)<br>
 - [Viewing Commits](#viewing-commits)<br>
-- [Commands for Remotes](remote-commands.md)<br> 
+- [Branch and Merge](#branch-and-merge)<br> 
 - [Favorites](#favorites)<br>
 - [Resources](#resources)
 
