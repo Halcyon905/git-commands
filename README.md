@@ -19,8 +19,8 @@
 
 - [Basics](#basics)<br>
 - [Adding and Changing Things](#adding-and-changing-things)<br>
-- [Next Section (todo: Fix This)](#next-section)<br>
-- [Next Section (todo: Fix This)](#next-next-section)<br>
+- [Undo Changes and Recover Files](#Undo-Changes-and-recover-files)<br>
+- [Viewing Commits](#viewing-commits)<br>
 - [Commands for Remotes](remote-commands.md)<br> 
 - [Favorites](#favorites)<br>
 - [Resources](#resources)
