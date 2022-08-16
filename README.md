@@ -187,7 +187,7 @@ test/
 ## Branch and Merge
 
 1. Create a new branch named `dev-foo`:
-```git brach dev-foo```
+```git branch dev-foo```
 2. Display the name of your current branch:
 ```git branch```
 3. List the names of **all** branches, including remote branches:
