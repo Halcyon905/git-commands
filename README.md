@@ -144,7 +144,7 @@ test/
    ``` 
    The command to reset HEAD and master to the commit id `bbbb`:
    ```
-   git checkout bbbb
+   git reset bbbb
    ```
 
 7. **Checkout old code:** Using the above example, the command to replace your working copy with the files from commit with id `aaaa`:
