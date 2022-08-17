@@ -1,3 +1,7 @@
+# The Ultimate Guide to Using Git
+
+***For the impatient***
+
 ## Using Git
 
 ### Table of Contents:
