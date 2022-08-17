@@ -1,3 +1,7 @@
+# Quick Guide to Git
+
+***By Punn C.***
+
 ## Using Git
 
 ### Table of Contents:
