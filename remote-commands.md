@@ -1,11 +1,5 @@
 ## Commands for Remotes
 
-> TODO Write your answers and then remove **all** the TODO comments
-> TODO For answers that are git or shell commands, surround your answer in triple backquotes, like this:
-   ```
-   this is unformatted text
-   delete this example
-   ```
 
 1. List all your remote repositories and show their URLs:
    ```
@@ -47,12 +41,12 @@
    
    What happens when you `push` your changes?    
    Explain why and how to fix it.
-
+   > It will not allow you to push because the branch is not the same commit.
 
 
 7. The command to change the URL of the remote "origin" to a new URL, such as `https://hostname/newuser/new-repo-name`, is:
    ```
-   TODO your answer
+   git remote set-<new-url>
    ```
    This situation occurs when:
    - you change the name of a repo on Github
@@ -63,11 +57,13 @@
 
 8. To create a *second* remote repository for your local repo, the command to add a remote named "bitbucket" with the URL "https://bitbucket.org/your-username/git-commands" is:
    ```
-   todo your answer
+   git add remote bitbucket https://bitbucket.org/your-username/git-commands
    ```
    - Note: you must **create** an empty repo on Bitbucket. This command just adds it as a remote, it won't create the remote repo.
 
 
 9. After adding the remote named `bitbucket`, the command to push your master branch to `bitbucket` is:
-
+   ```
+   git push bitbucket master
+   ```
 
